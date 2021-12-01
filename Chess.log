@@ -1,0 +1,76 @@
+10:09:03.726 INFO  com.company.Main - Game started
+10:11:24.109 INFO  com.company.Main - Game started
+10:12:26.167 INFO  com.company.Main - Game started
+10:12:27.777 INFO  com.company.Game - Mouse Click on 5 8
+10:12:27.777 INFO  com.company.Game - Mouse Click on 5 5
+10:12:27.778 INFO  com.company.Game - white
+   P go from 5 8 to 5 5
+10:12:28.895 INFO  com.company.Game - Mouse Click on 5 1
+10:12:28.895 INFO  com.company.Game - Mouse Click on 5 4
+10:12:28.896 INFO  com.company.Game - black
+   P go from 5 1 to 5 4
+10:12:29.862 INFO  com.company.Game - Mouse Click on 6 9
+10:12:29.862 INFO  com.company.Game - Mouse Click on 2 5
+10:12:29.862 INFO  com.company.Game - white
+   E go from 6 9 to 2 5
+10:12:30.903 INFO  com.company.Game - Mouse Click on 6 0
+10:12:30.905 INFO  com.company.Game - Mouse Click on 2 4
+10:12:30.905 INFO  com.company.Game - black
+   E go from 6 0 to 2 4
+10:12:31.982 INFO  com.company.Game - Mouse Click on 4 9
+10:12:31.982 INFO  com.company.Game - Mouse Click on 6 7
+10:12:31.983 INFO  com.company.Game - white
+   Q go from 4 9 to 6 7
+10:12:32.860 INFO  com.company.Game - Mouse Click on 3
+10:12:32.860 INFO  com.company.Game - Mouse Click on 0 2
+10:12:32.860 INFO  com.company.Game - black
+   M go from 3 to 0 2
+10:12:33.859 INFO  com.company.Game - Mouse Click on 6 7
+10:12:33.859 INFO  com.company.Game - Mouse Click on 6 1
+10:12:33.859 INFO  com.company.Game - white
+   Q go from 6 7 to 6 1
+10:13:02.738 INFO  com.company.Main - Game started
+10:13:03.527 INFO  com.company.Game - Mouse Click on 2 8
+10:13:03.787 INFO  com.company.Game - Mouse Click on 2 7
+10:13:03.788 INFO  com.company.Game - white
+   P go from 2 8 to 2 7
+10:13:04.655 INFO  com.company.Game - Mouse Click on 6 1
+10:13:05.063 INFO  com.company.Game - Mouse Click on 6 4
+10:13:05.063 INFO  com.company.Game - black
+   P go from 6 1 to 6 4
+10:13:05.661 INFO  com.company.Game - Mouse Click on 6 8
+10:13:06.000 INFO  com.company.Game - Mouse Click on 6 7
+10:13:06.001 INFO  com.company.Game - white
+   P go from 6 8 to 6 7
+10:13:06.796 INFO  com.company.Game - Mouse Click on 2 1
+10:13:07.192 INFO  com.company.Game - Mouse Click on 2 4
+10:13:07.193 INFO  com.company.Game - black
+   P go from 2 1 to 2 4
+10:13:11.615 INFO  com.company.Main - save save1 made
+10:13:37.567 INFO  com.company.Main - Game started
+10:13:39.474 INFO  com.company.Main - save save1 loaded
+10:13:45.481 INFO  com.company.Game - Mouse Click on 4 8
+10:13:45.854 INFO  com.company.Game - Mouse Click on 4 7
+10:13:45.855 INFO  com.company.Game - white
+   P go from 4 8 to 4 7
+10:13:46.683 INFO  com.company.Game - Mouse Click on 4 1
+10:13:47.222 INFO  com.company.Game - Mouse Click on 4 4
+10:13:47.223 INFO  com.company.Game - black
+   P go from 4 1 to 4 4
+10:13:50.631 INFO  com.company.Main - save save2 made
+10:14:06.716 INFO  com.company.Main - Game started
+10:14:09.605 INFO  com.company.Main - save save1 made
+10:14:19.307 INFO  com.company.Main - Game started
+10:14:21.085 INFO  com.company.Main - save save1 loaded
+10:37:20.278 INFO  com.company.Main - Game started
+10:37:23.956 INFO  com.company.Game - Mouse Click on 3 8
+10:37:24.161 INFO  com.company.Game - Mouse Click on 3 7
+10:37:24.162 INFO  com.company.Game - white
+   P go from 3 8 to 3 7
+10:37:26.103 INFO  com.company.Main - save save3 made
+10:38:40.634 INFO  com.company.Main - Game started
+10:39:54.283 INFO  com.company.Main - Game started
+10:41:06.909 INFO  com.company.Main - Game started
+10:41:22.681 INFO  com.company.Main - Game started
+10:43:07.866 INFO  com.company.Main - Game started
+10:43:09.430 INFO  com.company.Main - save save1 made
